@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ViniciusPii/git-test/issues"
   },
-  "homepage": "https://github.com/ViniciusPii/git-test#readme"
+  "homepage": "https://github.com/ViniciusPii/git-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
